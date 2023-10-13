@@ -1,18 +1,15 @@
-# 출석 후 도망 방지 프로그램
+# 자동 출석 확인 프로그램
+===
+
 ### 구현 방법
-*OpenCV를 이용한 영상 인식
->학생의 위치 학습
+---
+*OpenCV 라이브러리를 이용한 얼굴 감지 및 인식
+
+*MySQL 등을 이용한 데이터 베이스 관리
+
+_학생들의 부정 출석에 도움을 줌_
 
 
+  
 
 
-- 👋 Hi, I’m @justmin2003
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-justmin2003/justmin2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
